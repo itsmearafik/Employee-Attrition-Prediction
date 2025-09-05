@@ -7,7 +7,7 @@
 **Business goal:** Build a model to predict which employees are likely to leave so HR can take proactive retention actions.  
 **Target variable:** **Attrition** (yes/no).
 
-![]()
+![](https://github.com/itsmearafik/Employee-Attrition-Prediction/blob/main/assets/target_distribution.png)
 ---
 
 ## Table of Contents
@@ -30,7 +30,7 @@
 
 This project performs end-to-end analysis and modeling to predict employee attrition. It includes data understanding, preprocessing, exploratory data analysis (EDA), feature engineering, model training and tuning, evaluation, and exporting the final model for deployment.
 
-![]()
+![](https://github.com/itsmearafik/Employee-Attrition-Prediction/blob/main/assets/age_vs_attrition.png)
 
 ---
 
@@ -39,7 +39,7 @@ This project performs end-to-end analysis and modeling to predict employee attri
 Key concepts:
 
 - **Attrition**: target (yes/no).
-![]()
+![](https://github.com/itsmearafik/Employee-Attrition-Prediction/blob/main/assets/attrition_distribution.png)
 
 - **Attrition Label / Attrition Count**: auxiliary fields for analysis (e.g., aggregated counts or labels).  
 Other typical columns used: Age, Gender, Education Field, Job Role, Department, Job Satisfaction, Work Life Balance, Monthly Income, average_monthly_hours, Hire Date / Attrition Date / Dynamic Date, Employee No., Placeholder.
@@ -81,7 +81,7 @@ Example folder layout:
 6. Model evaluation with relevant metrics.
 7. Save & export final model for deployment.
 
-![]()
+![](https://github.com/itsmearafik/Employee-Attrition-Prediction/blob/main/assets/department_vs_attrition.png)
 
 ---
 
@@ -93,7 +93,7 @@ Example folder layout:
 - Drop identifiers and irrelevant columns (Employee No., Placeholder).  
 - Scale numeric features (StandardScaler or MinMaxScaler) when required by the model.
 
-![]()
+![](https://github.com/itsmearafik/Employee-Attrition-Prediction/blob/main/assets/education_vs_attrition.png)
 ---
 
 ## Feature engineering
@@ -115,7 +115,7 @@ Focus areas:
 - Relationships between attrition and Job Satisfaction, Work Life Balance, Monthly Income, average_monthly_hours.  
 - Visualizations: histograms, boxplots, bar charts, correlation heatmap, and confusion-matrix-style analysis for model outputs.
 
-![]()
+![](https://github.com/itsmearafik/Employee-Attrition-Prediction/blob/main/assets/dept_distribution.png)
 
 ---
 
@@ -210,6 +210,6 @@ Dependencies
 ---
 
 License
-Specify your license (MIT) and data usage terms.
+License (MIT) and data usage terms.
 
 ---
